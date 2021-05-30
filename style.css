@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+      background-color:#033E6B ;
+}
+
+main h1{
+      text-align: center;
+}
+
+main h2{
+color: #FF2C00;
+
+}
+
+
+footer {
+    background-color:#033E6B ;
+}
+
+footer p {
+     color:white ;
+     margin-left:20px ;
+}
